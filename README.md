@@ -21,4 +21,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
