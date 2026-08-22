@@ -27,4 +27,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
