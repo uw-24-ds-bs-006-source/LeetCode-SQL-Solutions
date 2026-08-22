@@ -17,4 +17,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
