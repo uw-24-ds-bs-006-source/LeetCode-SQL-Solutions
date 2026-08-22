@@ -19,4 +19,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 <!---LeetCode Topics End-->
