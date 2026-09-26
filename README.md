@@ -40,4 +40,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1179-reformat-department-table](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1179-reformat-department-table/) | Easy |
 | [1251-average-selling-price](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
