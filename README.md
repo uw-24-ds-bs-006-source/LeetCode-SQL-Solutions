@@ -43,4 +43,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/uw-24-ds-bs-006-source/LeetCode-SQL-Solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 <!---LeetCode Topics End-->
